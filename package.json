@@ -1,0 +1,14 @@
+{
+  "name": "aguilarcastro3102024",
+  "version": "1.0.0",
+  "description": "Javier Aguilar proyecto de backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Alejandro Aguilar Castro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
